@@ -1,9 +1,10 @@
 body {
     --big: 200px;
     --light-green: rgb(85, 233, 85);
+    --light-red: rgb(252, 120, 120);
 }
 
 h1 {
-    color: var(--light-green);
+    color: var(--light-red);
     font-size: var(--big);
 }
