@@ -1,0 +1,9 @@
+body {
+    --big: 200px;
+    --light-green: rgb(85, 233, 85);
+}
+
+h1 {
+    color: var(--light-green);
+    font-size: var(--big);
+}
